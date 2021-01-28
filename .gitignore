@@ -1,0 +1,8 @@
+###> projet ###
+.projet
+###< symfony/framework-bundle ###
+###> idea ###
+.idea
+###< idea  ###
+
+project/
